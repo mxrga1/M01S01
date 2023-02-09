@@ -1,0 +1,15 @@
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana01\Exercicios\ex9\bin\Debug\net7.0\ex9.exe
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana01\Exercicios\ex9\bin\Debug\net7.0\ex9.deps.json
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana01\Exercicios\ex9\bin\Debug\net7.0\ex9.runtimeconfig.json
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana01\Exercicios\ex9\bin\Debug\net7.0\ex9.dll
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana01\Exercicios\ex9\bin\Debug\net7.0\ex9.pdb
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana01\Exercicios\ex9\obj\Debug\net7.0\ex9.csproj.AssemblyReference.cache
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana01\Exercicios\ex9\obj\Debug\net7.0\ex9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana01\Exercicios\ex9\obj\Debug\net7.0\ex9.AssemblyInfoInputs.cache
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana01\Exercicios\ex9\obj\Debug\net7.0\ex9.AssemblyInfo.cs
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana01\Exercicios\ex9\obj\Debug\net7.0\ex9.csproj.CoreCompileInputs.cache
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana01\Exercicios\ex9\obj\Debug\net7.0\ex9.dll
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana01\Exercicios\ex9\obj\Debug\net7.0\refint\ex9.dll
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana01\Exercicios\ex9\obj\Debug\net7.0\ex9.pdb
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana01\Exercicios\ex9\obj\Debug\net7.0\ex9.genruntimeconfig.cache
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana01\Exercicios\ex9\obj\Debug\net7.0\ref\ex9.dll
